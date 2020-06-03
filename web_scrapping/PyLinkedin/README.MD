@@ -8,3 +8,5 @@ Steps:
 4) Fetch the li_at and JSESSIONID data
 5) Google: my user agent and fetch the data
 6) Using VSCODE or any other editor open the ```PyLinkedin.py``` script and enter the values of li_at,JESSION_ID and User Agent
+
+Source: https://towardsdatascience.com/using-browser-cookies-and-voyager-api-to-scrape-linkedin-via-python-25e4ae98d2a8

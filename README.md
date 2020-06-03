@@ -1,3 +1,5 @@
-# deep_dump
+# Miscellaneous
 
-A dumping repository to re-use assets in various places
+A repo consisting of random scripts and assets that I might use to compliment my work!
+
+Nothing special here.

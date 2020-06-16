@@ -16,9 +16,9 @@ plt.show()
 
 # Better Implementation
 def improve_contrast_image_using_clahe(bgr_image: np.array) -> np.array:
-    hsv = open_cv.cvtColor(bgr_image, open_cv.COLOR_BGR2HSV)
-    hsv_planes = open_cv.split(hsv)
-    clahe = open_cv.createCLAHE(clipLimit=6.0, tileGridSize=(8, 8))
+    hsv = cv2.cvtColor(bgr_image, cv2.COLOR_BGR2HSV)
+    hsv_planes = cv2.split(hsv)
+    clahe = cv2.createCLAHE(clipLimit=6.0, tileGridSize=(8, 8))
     hsv_planes[2] = clahe.apply(hsv_planes[2])
-    hsv = open_cv.merge(hsv_planes)
-    return open_cv.cvtColor(hsv, open_cv.COLOR_HSV2BGR)
+    hsv = cv2.merge(hsv_planes)
+    return cv2.cvtColor(hsv, cv2.COLOR_HSV2BGR)

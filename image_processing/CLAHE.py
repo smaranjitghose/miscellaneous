@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-img = cv2.imread('WeedCont.tif', 0)
+img = cv2.imread('demo.jpeg', 0)
 
 clahe = cv2.createCLAHE(clipLimit=6, tileGridSize=(8, 8))
 claheImg = clahe.apply(img)

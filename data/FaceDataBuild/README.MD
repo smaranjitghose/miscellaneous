@@ -14,4 +14,4 @@ Using Python to create a face recognition dataset
 - Once you are satisfies press ```q``` to stop the script 🤚
 - Kaboom!..you have your very own face dataset
 
-Source: [PyImageSearch](pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/)
+## Source: [PyImageSearch](pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/)

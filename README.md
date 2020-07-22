@@ -10,6 +10,8 @@ Nothing special here.
 
 <p align="center"><img width=40% src="https://github-readme-stats.vercel.app/api?username=smaranjitghose&show_icons=true&theme=radical"></p>
 <p align="center"><img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaranjitghose&hide_langs_below=1"></p>
+<p align="center"><img width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=smaranjitghose&repo=deeppixel"></p>
+
 
 
 

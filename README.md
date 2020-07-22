@@ -6,4 +6,5 @@ A collection of random scripts and assets that I might use for some work
 
 Nothing special here.
 
+<h2 align= "center"><b>Some Random Stuff about myself 🔧</b></h2>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smaranjitghose&show_icons=true&theme=radical)

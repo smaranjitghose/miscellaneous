@@ -3,4 +3,4 @@ A simple Python script to strengthen passwords by juggling characters with their
 
 <h2 align = "center">Usage</h1>
 
-- ``` python password_strongify.py```
+``` python password_strongify.py```

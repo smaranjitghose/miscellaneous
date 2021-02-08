@@ -1,0 +1,20 @@
+# Python bytecodes
+__pycache__/*
+# Information about our Git Repository
+.git/*
+README.MD
+LICENSE
+CODE_OF_CONDUCT.MD
+Contributing.MD 
+.gitignore
+.pre-commit-config.yaml
+# Jupyter Notebook Related Stuff
+.ipynb_checkpoints/*
+notebooks/
+# VSCode config Log
+.vscode/*
+.DS_Store
+# Configuration Files for Heroku
+Procfile
+setup.sh
+.slugignore

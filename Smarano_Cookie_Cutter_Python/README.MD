@@ -17,7 +17,7 @@
 |- assets\ # All the images, gifs go here
 |- src\ # All the scripts go here
 |- tests\ # All tests go here
-|- notebooks\ - All the Jupyter notebooks go here
+|- notebooks\ # All the Jupyter notebooks go here
 |- app.py # Streamlit app script
 |- api.py # FastAPI script
 |- Dockerfile # Docker Container Configuration

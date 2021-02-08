@@ -1,0 +1,19 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.4.0
+    hooks:
+      - id: check-yaml
+      - id: check-json
+      - id: check-added-large-files
+        args: ["--maxkb=5000"]
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: name-tests-test
+      - id: requirements-txt-fixer
+      - id: pretty-format-json
+        args: ["--indent=6"]
+  - repo: https://github.com/psf/black
+    rev: stable
+    hooks:
+      - id: black
+        language_version: python3

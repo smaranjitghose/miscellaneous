@@ -15,7 +15,6 @@ notebooks/
 # VSCode config Log
 .vscode/*
 .DS_Store
-# Configuration Files for Heroku
-Procfile
-setup.sh
-.slugignore
+# Configuration Files for Docker Container used in AWS, GCP or AWS
+Dockerfile
+.dockerignore

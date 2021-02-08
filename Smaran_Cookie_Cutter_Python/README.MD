@@ -24,15 +24,16 @@ A modified cookie-cutter like project structure I prefer to use for my projects
 |- api.py # FastAPI script
 |- Dockerfile # Docker Container Configuration
 |- .dockerignore # Ignore a list of files and directories while building the docker container
-|- Procfile # Setup file for Heroku
-|- .slugignore # Ignore a list of files and directories while building the Heroku dyno
+|- Procfile # Configuration file for Heroku Dyno
+|- .slugignore # Ignore a list of files and directories while building the Heroku Dyno
+|- setup.sh # Shell script for setting up Heroku Dyno
 ```
 
 ## Files provided:
 
 #### Heroku
 
-**Modified to faciliate hosting of Streamlit app**
+_Modified to faciliate hosting of Streamlit app_
 
 - [.slugignore](./.slugignore)
 - [Procfile](./Procfile)
@@ -40,7 +41,7 @@ A modified cookie-cutter like project structure I prefer to use for my projects
 
 #### Docker
 
-**Modified to faciliate hosting of Streamlit app**
+_Modified to faciliate hosting of Streamlit app_
 
 - [Dockerfile](./Dockerfile)
 - [.dockerignore](./.dockerignore)

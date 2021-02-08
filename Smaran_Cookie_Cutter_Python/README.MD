@@ -1,6 +1,6 @@
 # Python Project Structure
 
-A modified cookie-cutter like project structure I prefer to use for my projects
+A modified cookie-cutter like project structure I prefer to use for my projects!
 
 ```python
 
@@ -55,6 +55,13 @@ _Modified to faciliate hosting of Streamlit app_
 - [pyproject.toml](./pyproject.toml)
 - [requirements.txt](./requirements.txt)
 
-#### GitIgnore
+#### Gitignore
 
 - [.gitignore](./.gitignore)
+
+Feel free to use this anywhere you wish!
+I would be glad if could:
+
+- Make a Tweet/LinkedIn post and tag me
+- Add a reference to your project
+- Give me a follow on GitHub

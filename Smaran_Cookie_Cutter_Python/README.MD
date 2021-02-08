@@ -28,9 +28,11 @@ A modified cookie-cutter like project structure I prefer to use for my projects
 |- .slugignore # Ignore a list of files and directories while building the Heroku dyno
 ```
 
-# Files provided:
+## Files provided:
 
 #### Heroku
+
+**Modified to faciliate hosting of Streamlit app**
 
 - [.slugignore](./.slugignore)
 - [Procfile](./Procfile)
@@ -38,12 +40,14 @@ A modified cookie-cutter like project structure I prefer to use for my projects
 
 #### Docker
 
+**Modified to faciliate hosting of Streamlit app**
+
 - [Dockerfile](./Dockerfile)
 - [.dockerignore](./.dockerignore)
 
 #### GitHub Actions
 
-- [Black YML](./.git/workflows/black.yml)
+- [Black](./.git/workflows/black.yml)
 
 #### Python Project Setup
 

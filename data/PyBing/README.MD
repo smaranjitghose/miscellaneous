@@ -8,4 +8,10 @@
 - Open the ``PyBing.py`` script in VSCODE any other text editor and insert its value
 - Run the script: ```python PyBing.py -q what_images_you_want -o path_of_folder_to_store_the images```
 
-## [Source: PyImageSearch](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
+
+
+## Recent API Endpoint:
+
+``
+https://api.bing.microsoft.com/v7.0/search
+``

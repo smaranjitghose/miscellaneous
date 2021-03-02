@@ -1,3 +1,0 @@
-PYPDF2
-pyttsx3
-arparse

@@ -1,24 +1,11 @@
 
-## Miscellaneous
-
-1. Install Git (Overide Windows Commands)
-2. Get VSCode as the defacto Text Editor/IDE
-3. Install WSL
-4. Update to WSL2
-5. Get Chocholatey
-6. Get Python 
-7. Get NodeJS
-8. Download VSCode for Basic C++
-9. NVIDIA DRIVER Installation for Tensorflow
-
-## Windows Terminal
-
+## Windows Terminal Customization
 
 1. Windows Explorer Startup
 
-``
+```terminal
 wt -t .
-``
+```
 
 Similar to ``pwsh`` and ``cmd``
 
@@ -41,9 +28,97 @@ code $PROFLE
 5. Install the desired font(s)
 (The `Windows Compatible` ones are preferred)
 
-5. Update settings.json for the Windows Terminal
+5. Update [settings.json](./wt_settings.json) for the Windows Terminal
 
 
 References:
 
 1. [Microsoft Documentation](https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup)
+
+## Additional System Fonts:
+
+- [Poppins](https://fonts.google.com/specimen/Poppins?preview.text_type=custom)
+- [Montserrat](https://fonts.google.com/specimen/Montserrat?preview.text_type=custom)
+- [Gotham](https://freefontsfamily.com/gotham-font-family/)
+
+
+## Basic System Software:
+
+1. Version Control
+    - Git
+    - GitHub CLI 
+
+2. IDE/Text Editor
+    - VS Code
+
+3. Web Browsers: 
+    - Mozilla Firefox
+    - Google Chrome
+    - Tor
+    - Braze
+
+4. Photo Editor:
+    - GIMP
+    - PhotoScape X(Windows Store)
+
+5. Video Editor:
+    - Shotcut 
+    - DaVinci Resolve
+
+6. Audio Editing:
+    - Audacity 
+
+7. Sreen Capture
+    - ShareX
+    - OBS Studio
+
+8. Compression
+    - 7-zip
+
+9. Media Player
+    - VLC
+
+10. Office Tools
+    - OpenOffice/LibreOffice
+
+11. Paint
+    - paint net
+
+12. Data Recovery
+    - Recuva
+
+13. PDF Reader
+    - Foxit Reader
+
+14. Communication:
+    - Discord
+    - Slack
+    - Session
+
+15. Meetings:
+    - Zoom
+
+16. Music:
+    - Spotify
+
+## Other Stuff
+
+1. Install Python
+2. Install Anaconda
+3. Install Choco
+4. Visual Studio for C++ Supprt
+5. NVIDIA Drivers
+6. CUDA
+7. CUDADNN
+8. TensorFlow GPU
+7. PyTorch GPU
+8. Intall NodeJS
+9. Build Flutter from Source
+10. Install Windows Terminal
+11. Customize Windows Terminal
+12. Install WSL
+13. Update to WSL2
+14. Privacy Settings for System
+15. Privacy Settings for Browsers
+16. VS Code Customizations
+17. Python Packages

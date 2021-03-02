@@ -89,6 +89,7 @@
                 "icon": "%USERPROFILE%\\Anaconda3\\Menu\\anaconda-navigator.ico",
                 "fontFace": "TerminessTTF NF",
                 "cursorColor" : "#00ff9c", 
+                "fontSize": 14,
                 "cursorShape" : "filledBox",
                 "useAcrylic": true,
                 "acrylicOpacity": 0.65,

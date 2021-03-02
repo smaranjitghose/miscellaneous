@@ -8,6 +8,8 @@
 5. Get Chocholatey
 6. Get Python 
 7. Get NodeJS
+8. Download VSCode for Basic C++
+9. NVIDIA DRIVER Installation for Tensorflow
 
 ## Windows Terminal
 

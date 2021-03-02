@@ -1,4 +1,16 @@
-## Tips and Tricks
+
+## Miscellaneous
+
+1. Install Git (Overide Windows Commands)
+2. Get VSCode as the defacto Text Editor/IDE
+3. Install WSL
+4. Update to WSL2
+5. Get Chocholatey
+6. Get Python 
+7. Get NodeJS
+
+## Windows Terminal
+
 
 1. Windows Explorer Startup
 
@@ -15,7 +27,7 @@ Install-Module posh-git
 Install-Module oh-my-posh 
 ```
 
-3. Create a Poweshell Profile
+3. Create a [Poweshell Profile](./Microsoft.PowerShell_Profile.ps1)
 
 ```terminal
 code $PROFLE

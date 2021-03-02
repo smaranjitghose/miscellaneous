@@ -101,6 +101,16 @@ References:
 16. Music:
     - Spotify
 
+## Chrome/Firefox Extensions:
+
+1. Privacy Badger
+2. uBlock Origin
+3. Ghostery
+4. Unshortern Link
+5. HTTPSEverywhere
+6. DarkReader
+7. Momentum
+
 ## Other Stuff
 
 1. Install Python
@@ -122,3 +132,4 @@ References:
 15. Privacy Settings for Browsers
 16. VS Code Customizations
 17. Python Packages
+

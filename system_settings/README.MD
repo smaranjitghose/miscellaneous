@@ -18,16 +18,16 @@ Install-Module oh-my-posh
 3. Create a Poweshell Profile
 
 ```terminal
-Import-Module posh-git
-Import-Module oh-my-posh
-Set-PoshPrompt -Theme paradox
+code $PROFLE
 ```
 
+4. Download Powerline patched fonts from [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 
-4. Get a PowerlineFont from nerdfonts
 
+5. Install the desired font(s)
+(The `Windows Compatible` ones are preferred)
 
-5. Update settings.json
+5. Update settings.json for the Windows Terminal
 
 
 References:

@@ -82,6 +82,20 @@
                 "closeOnExit" : "always"
             },
             {
+                // Make changes here to the Anaconda Profile.
+                "guid": "{8263f2fe-583d-4e36-a3f6-1afd29aa7ac0}",
+                "name": "Anaconda",
+                "commandline": "cmd.exe /K C:\\Users\\USERNAME\\anaconda3\\Scripts\\activate.bat",
+                "icon": "%USERPROFILE%\\Anaconda3\\Menu\\anaconda-navigator.ico",
+                "fontFace": "TerminessTTF NF",
+                "cursorColor" : "#00ff9c", 
+                "cursorShape" : "filledBox",
+                "useAcrylic": true,
+                "acrylicOpacity": 0.65,
+                "startingDirectory": "%HOMEPATH%",
+                "hidden": false
+            },
+            {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
                 "hidden": true,
                 "name": "Azure Cloud Shell",

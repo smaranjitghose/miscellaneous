@@ -47,7 +47,6 @@
                 "useAcrylic": true,
                 "acrylicOpacity": 0.9,
                 "hidden": false
-
             },
             {
                 // Make changes here to the cmd.exe profile.
@@ -58,8 +57,33 @@
                 "hidden": false
             },
             {
-                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "guid": "{f74c374e-d9ce-4f53-b3f1-072e020f08a5}",
+                "name": "Python",
+                "commandline": "python",
+                "icon": "D:\\Drivers\\python.ico",
+                "hidden": false                
+            },
+            {
+                "guid": "{8753763a-fe15-45ac-a764-e050a1972fa5}",
+                "name" : "Git Bash",
+                "commandline" : "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
+                "icon" : "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+                "fontFace": "mononoki NF",
+                "fontSize": 14,
+                "cursorColor" : "#FFFFFF", 
+                "cursorShape" : "bar", 
+                "startingDirectory" : "%USERPROFILE%",
+                "background": "#012456",
+                "padding": "0, 0, 0, 0",
+                "snapOnInput": true,
+                "useAcrylic": true,
+                "acrylicOpacity": 0.75,
                 "hidden": false,
+                "closeOnExit" : "always"
+            },
+            {
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": true,
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
             }
@@ -178,6 +202,7 @@
             "brightWhite": "#ffffff"
           }
     ],
+
 
     // Add custom actions and keybindings to this array.
     // To unbind a key combination from your defaults.json, set the command to "unbound".

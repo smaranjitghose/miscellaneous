@@ -12,8 +12,6 @@ repos:
       - id: requirements-txt-fixer
       - id: pretty-format-json
         args: ["--indent=6"]
-      - id: requirements-txt-fixer # Sorts entries in requirements.txt
-      - id: forbid-new-submodules # Check for git submodules
   - repo: https://github.com/psf/black
     rev: 20.8b1
     hooks:
@@ -22,3 +20,8 @@ repos:
     rev: 5.6.4
     hooks:
       - id: isort
+
+  - repo: https://github.com/PyCQA/bandit
+    rev: 1.7.0
+    hooks:
+      - id: bandit

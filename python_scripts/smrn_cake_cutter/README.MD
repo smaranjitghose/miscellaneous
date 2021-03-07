@@ -1,6 +1,6 @@
 # Python Project Structure
 
-A modified cookie-cutter like project structure I prefer to use for my projects!
+A modified cookie-cutter like project structure I prefer to use for data science projects!
 
 ```python
 

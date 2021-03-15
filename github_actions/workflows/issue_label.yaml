@@ -1,11 +1,14 @@
 # Reference: https://github.com/Renato66/auto-label
 name: Labeling new issue
+# The event that triggers the workflow
 on:
   issues:
     types: ['opened']
 jobs:
   build:
+    # The machine each job should run
     runs-on: ubuntu-latest
+    # The tasks each job should run
     steps:
       - uses: Renato66/auto-label@v2
         with:

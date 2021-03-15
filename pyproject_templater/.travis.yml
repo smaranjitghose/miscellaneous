@@ -1,0 +1,20 @@
+# Command to specify the base OS for the workflow
+dist: focal
+# Command to specify the programming language used
+language: python
+# Command for python package versions to be stored between runs, to speed up sequential builds
+cache: pip
+# Command to specify a sequence of python versions to perform builds against
+python:
+    - "3.6"
+    - "3.7"
+    - "3.8"
+before_install:
+  - python --version
+  - python -m pip install --upgrade pip
+# Command to install dependencies
+install:
+  - pip install -r requirements.txt
+# Command to run tests
+script:
+  - python tests.py

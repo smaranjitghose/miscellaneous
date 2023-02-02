@@ -1,19 +1,17 @@
 ## Handy Python
 
 
-## Scripts:
-
-- [Audio Recorder](./data/audio/audio_recording.py)
-- [QR Code Generator]()
-
-
 ## Data Collection, Manipulation, Analysis and Visualization
 
 - [Get the closest matching tickers for stocks corresponding to the known list of companies of a mutual fund: Python + Selenium + Google Finance](https://gist.github.com/smaranjitghose/82447fbebe4a6225a6554d0688a75dee)
 
+- [Record Audio Data using Microphone](./data/audio/audio_recording.py)
+
+- [Generate QR Codes for URLs, Names and Numbers](https://github.com/smaranjitghose/FantasticQRCode)
+
 - [Create Image Dataset using webcam]()
 
-- [Record Voice Data using Microphone]()
+
 
 
 ## Templates:
